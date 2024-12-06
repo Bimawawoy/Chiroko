@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Selenoid</string>
+    <string name="battery_mode_title">Battery Profile</string>
+    <string name="battery_mode_desc">Maximize your battery life with this mode. It intelligently limits CPU and GPU performance to ensure longer battery life for light tasks like browsing or reading.</string>
+    <string name="balance_mode_title">Balance Profile</string>
+    <string name="balance_mode_desc">Enjoy a balanced experience for daily activities with optimal performance and power efficiency.</string>
+    <string name="gaming_mode_title">Gaming Profile</string>
+    <string name="gaming_mode_desc">Boost performance for an immersive gaming experience. Be cautious as it may cause overheating and increased battery usage.</string>
+</resources>
